@@ -1,0 +1,33 @@
+.pill {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+.table{
+  align-items: center;
+  position: relative;
+  left: 20%;
+  background-color: aliceblue;
+  text-align: center;
+}
+td{
+  width: 1px;;
+}
+.insightCard{
+  background-color: rgb(233, 211, 102);
+  color:aliceblue;
+}
+.tablehead{
+  background-color: orange;
+  color: aliceblue;
+}
+.sep{
+  background-color: white
+}
